@@ -388,3 +388,4 @@ RSPEC_SET=debian-607-x64 bundle exec rspec spec/acceptance
 ### Contributors
 
 View the full list of contributors on [Github](https://github.com/puppetlabs/puppetlabs-postgresql/graphs/contributors).
+# postgres
